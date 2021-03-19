@@ -1,2 +1,0 @@
-# GoToHellInstantly
-Datapack
